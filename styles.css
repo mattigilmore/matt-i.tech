@@ -1,11 +1,18 @@
 /* color plate:
 https://www.colourlovers.com/palette/292482/Terra
-*/
-body{
-    background-color: 031634;
-}
-#top-bar{
-    background-color: 036564;
-    color:CDB380;
-    
-}
+
+background img from https://pixabay.com/illustrations/abstract-technology-background-tech-5035778/*/
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2020/04/12/20/37/abstract-5035778_1280.jpg);
+    font-family: sans-serif;
+    padding: 20px;
+  }
+
+.about{
+    width: 80%;
+    background-color: #033649;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
